@@ -14,12 +14,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Contate-me:
 
 - **E-mail:** maciel.o.costa@hotmail.com
